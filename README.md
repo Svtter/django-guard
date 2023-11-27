@@ -8,4 +8,9 @@ Almost all server down developed by django framework was caused by exhausted mem
 
 ## Installation
 
-`pip install django_guard`
+`pip install django_guard # not upload to pypi since 2023/11/27`
+
+## TODO
+
+- [ ] Upload to pypi
+- [ ] Add user documentation
