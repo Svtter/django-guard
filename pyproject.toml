@@ -3,6 +3,7 @@ name = "django_guard"
 version = "0.1.0"
 description = ""
 authors = ["svtter <svtter@163.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
